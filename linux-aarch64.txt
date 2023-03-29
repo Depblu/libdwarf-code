@@ -1,0 +1,16 @@
+[binaries]
+c = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-gcc'
+cpp = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-g++'
+ar = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ar'
+strip = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-strip'
+ranlib = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ranlib'
+readelf = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-readelf'
+objcopy = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-objcopy'
+objdump = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-objdump'
+ld = '/home/lius/sda1/tmp/lantu/tisdk_8.2/ti-processor-sdk-rtos-j721e-evm-08_02_00_05/gcc-arm-9.2-2019.12-x86_64-aarch64-none-linux-gnu/bin/aarch64-none-linux-gnu-ld'
+
+[host_machine]
+system = 'linux'
+cpu_family = 'aarch64'
+cpu = 'aarch64'
+endian = 'little'
